@@ -3,4 +3,6 @@
 #xhofe/alist:latest
 clickhouse/clickhouse-server:24.4.3.25-alpine
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/amd64
+
