@@ -3,8 +3,8 @@
 #xhofe/alist:latest
 #clickhouse/clickhouse-server:24.4.3.25-alpine
 # mintplexlabs/anythingllm:latest
-ollama/ollama
-
+# ollama/ollama
+postgres:15.8
 
 
 
