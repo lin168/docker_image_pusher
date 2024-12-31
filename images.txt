@@ -6,7 +6,8 @@
 # ollama/ollama
 # postgres:15.8
 # pgvector/pgvector:0.7.4-pg15
-milvusdb/milvus:v2.4.11
+# milvusdb/milvus:v2.4.11
+python:3.10.16-bullseye
 
 
 
