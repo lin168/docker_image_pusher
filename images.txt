@@ -4,7 +4,7 @@
 #clickhouse/clickhouse-server:24.4.3.25-alpine
 # mintplexlabs/anythingllm:latest
 # ollama/ollama
-ollama/ollama:0.13.1
+# ollama/ollama:0.13.1
 # postgres:15.8
 # pgvector/pgvector:0.7.4-pg15
 # milvusdb/milvus:v2.4.11
@@ -12,7 +12,7 @@ ollama/ollama:0.13.1
 # vllm/vllm-openai:v0.9.1
 # vllm/vllm-openai:v0.8.5.post1
 # vllm/vllm-openai:v0.7.3
-
+nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
 
 
 
